@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+settings.json
+settings.tmp
+bot.log
+scan_debug.png
+
